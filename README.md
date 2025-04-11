@@ -7,4 +7,4 @@ jdmatrix.py     -   Console version of famous matrix display
 
 jdinvader.py    -   Console version of famous 80's invader game
 
-jdthreadd.py, jdtasks.py    -   Classes to automatically solve tasks per threads spreading over all CPUs
+jdthread.py, jdtasks.py    -   Classes to automatically solve tasks per threads spreading over all CPUs
